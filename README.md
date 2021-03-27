@@ -17,6 +17,9 @@
 - Human Interface Guidelines
 - ViewController life cycles
 - CoreData, User Defaults
+- Клиент-серверная архитектура, работа с сетью
+- REST API
+- JSON
 - базовые знания GCD, OperationQueue
 - CocoaPods
 - Git
