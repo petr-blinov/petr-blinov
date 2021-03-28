@@ -36,11 +36,11 @@
 
 Обязательно нуждаюсь в наставнике на старте работы.
 
-Facebook: https://www.facebook.com/petr.blnv
 
 Контакты:
 - pete.blinov@gmail.com
 - +7 937 201 64 64
 - https://t.me/petr_bn
 
-
+Резюме на hh: https://samara.hh.ru/resume/d38b8fd6ff0871a9e90039ed1f496842515757
+Facebook: https://www.facebook.com/petr.blnv
