@@ -44,6 +44,6 @@
 - +7 937 201 64 64
 - https://t.me/petr_bn
 
-Резюме: https://disk.yandex.ru/i/ZF8eTGLGVDHrEA
+Резюме: https://disk.yandex.ru/d/0dVj1BE-JdJ-JQ?w=1
 
 Facebook: https://www.facebook.com/petr.blnv
