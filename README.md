@@ -4,22 +4,25 @@
 
 Знания, навыки:
 
-- Swift 5 (протоколы, extension, generic и т.д.)
-- Xcode
+- Swift 5 
 - ООП, SOLID
-- Storyboard, Interface Builder, Auto Layout
-- UIKit, Foundation
-- basic SwiftUI
-- MVC, базовое понимание основных паттернов - MVP, MVVM, VIPER
+- GitLab, CI
+- Jira, Confluence (также Яндекс Трекер и Яндекс Вики в рамках переезда на российское ПО)
+- Jenkins
+- Figma
+- Foundation, UIKit, CXTest
+- Базовое понимание основных архитектурных шаблонов – MVC, MVP, MVVM, VIPER
 - Human Interface Guidelines
-- ViewController life cycles
-- CoreData, User Defaults
-- Клиент-серверная архитектура, работа с сетью
+- Базовое понимание паттернов проектирования
+- Верстка в коде
+- Работа с сетью
 - REST API
 - JSON
-- базовые знания GCD, OperationQueue
-- CocoaPods
-- Git, git flow
+- CoreData, User Defaults
+- Multithreading, GCD, OperationQueue
+- Менеджеры зависимостей (Carthage, CocoaPods, SPM)
+- Тестирование (Unit, UI, Snapshot tests)
+- Basic SwiftUI
 - AppStore
 - Понимание цикла разработки ПО, гибких методологий (Agile, Scrum, Kanban)
 
