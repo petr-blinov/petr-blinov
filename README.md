@@ -1,45 +1,39 @@
-Привет,
+Hi,
 
-Коротко о себе.
+Briefly about myself.
 
-Знания, навыки:
+Commercial experience in iOS development since 2021 - Sber Health company (Sberbank group of companies, own product) and XDSoft company (Software Product group of companies, custom development). 
+Advanced level of English (University degree, participated in student program in the USA, a lot of work experience). 
+Personal characteristics – love teamwork, fast learner, excellent communication skills.
 
-- Swift 5 
-- ООП, SOLID
-- GitLab, CI
-- Jira, Confluence (также Яндекс Трекер и Яндекс Вики в рамках переезда на российское ПО)
-- Jenkins
-- Figma
-- Foundation, UIKit, CXTest
-- Базовое понимание основных архитектурных шаблонов – MVC, MVP, MVVM, VIPER
-- Human Interface Guidelines
-- Базовое понимание паттернов проектирования
-- Верстка в коде
-- Работа с сетью
-- REST API
-- JSON
-- CoreData, User Defaults
-- Multithreading, GCD, OperationQueue
-- Менеджеры зависимостей (Carthage, CocoaPods, SPM)
-- Тестирование (Unit, UI, Snapshot tests)
-- Basic SwiftUI
-- AppStore
-- Понимание цикла разработки ПО, гибких методологий (Agile, Scrum, Kanban)
+Knowledge, skills:
 
-Сертификаты по пройденным курсам: https://yadi.sk/d/3X_hv3t6y9DPAQ?w=1
+-	Swift 5 
+-	OOP, SOLID, KISS, DRY, YAGNI
+-	UIKit, SwiftUI 
+-	XCUITest
+-	Multithreading, GCD, OperationQueue
+-	Layout in code
+-	CI, CD, Jenkins
+-	Git, Gitflow
+-	Jira, Confluence
+-	Basic understanding of basic architectural patterns – MVC, MVP, MVVM, VIPER
+-	Design patterns
+-	Network
+-	REST API
+-	JSON
+-	CoreData, User Defaults, FileManager
+-	Dependency managers (Carthage, CocoaPods, SPM)
+-	Tests (Unit tests, UI tests, Snapshot tests)
+-	AppStore
+-	Understanding of software development cycle, agile methodologies (Agile, Scrum, Kanban)
 
-Хорошо знаю английский (переводческое отделение в ВУЗе, студенческая программа в США, много опыта по работе).
+Link to courses certificates: https://cutt.ly/ckWbh44
 
-Желание обучаться, внимательность, исполнительность, структурное мышление.
-В работе ориентируюсь на результат, умею работать в команде.
-Быстро учусь, умею задавать правильные вопросы.
 
-Имею отличные навыки взаимодействия с людьми.
-Ценю в людях адекватность, честность, открытость, чувство юмора.
-
-Контакты:
+Contacts:
 - pete.blinov@gmail.com
-- +7 937 201 64 64
-- https://t.me/petr_bn
+- Phone, WhatsApp: + 972 053 47 29 812, WhatsApp only: +7 937 201 64 64
+- Telegram: @petr_bn
 
-Резюме: https://disk.yandex.ru/d/0dVj1BE-JdJ-JQ?w=1
+CV: https://clck.ru/33HVKg
